@@ -1,0 +1,9 @@
+/* <span class="onion-katex__emphasis">111 洋葱数学</span> */
+.onion-katex__emphasis {
+    text-emphasis: black open;
+    -webbit-text-emphasis: black open;
+    text-emphasis-style: '●';
+    -webkit-text-emphasis-style: '●';
+    -webkit-text-emphasis-position: under;
+    text-emphasis-position: under;
+}
